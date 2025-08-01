@@ -1,0 +1,9 @@
+[Sound Theme]
+Name=Gruvvy
+Comment=A musical sound theme for KDE Plasma. By WinnerWind.
+
+Directories=stereo
+Example=sonar
+
+[stereo]
+OutputProfile=stereo
